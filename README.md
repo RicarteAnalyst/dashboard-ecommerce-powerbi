@@ -16,6 +16,7 @@ DAX — criação de medidas calculadas e tabela calendário
 
 
 🗂️ Estrutura do modelo de dados
+
 O modelo segue a arquitetura Star Schema com as seguintes tabelas:
 Tabelas Fato
 
